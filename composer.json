@@ -1,5 +1,5 @@
 {
-    "name": "codename/parquet",
+    "name": "modeltech/parquet",
     "description": "Thrift-based PHP implementation for using the Apache Parquet format",
     "type": "library",
     "license": "MIT",
